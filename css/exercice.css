@@ -1,4 +1,11 @@
 /* 1. exercice-flex */
+.container {
+  display: flex;
+}
+
+.exercice-flex .container {
+  flex-direction: row;
+}
 
 /* 2. exercice-flex-2 */
 
