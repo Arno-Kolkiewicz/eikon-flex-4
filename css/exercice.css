@@ -35,6 +35,9 @@
 }
 
 /*6. exercice-flex-grow-1 */
+.exercice-flex-grow-1 .element-red {
+  flex-grow: 2;
+}
 
 /*7. exercice-flex-grow-2 */
 
