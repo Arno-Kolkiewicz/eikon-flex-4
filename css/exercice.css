@@ -8,6 +8,9 @@
 }
 
 /* 2. exercice-flex-2 */
+.exercice-flex-2 .container {
+  align-items: center;
+}
 
 /*3. exercice-align-content-1 */
 
