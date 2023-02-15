@@ -61,3 +61,32 @@
 }
 
 /*9. exercice-all-in */
+.exercice-all-in .container {
+  flex-direction: row;
+  flex-wrap: wrap-reverse;
+  align-content: center;
+}
+
+.exercice-all-in .element-pink {
+  flex-grow: 1;
+}
+
+.exercice-all-in .element-yellow {
+  flex-grow: 1;
+}
+
+.exercice-all-in .element-gray {
+  flex-grow: 1;
+}
+
+.exercice-all-in .element-red {
+  flex-grow: 1;
+}
+
+.exercice-all-in .element-blue {
+  flex-grow: 1;
+}
+
+.exercice-all-in .element-green {
+  flex-grow: 1;
+}
