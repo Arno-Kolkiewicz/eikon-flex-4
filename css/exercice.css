@@ -27,6 +27,12 @@
   justify-content: center;
 }
 /*5. exercice-align-content-3 */
+.exercice-align-content-3 .container {
+  flex-direction: row;
+  justify-content: flex-end;
+  flex-wrap: wrap-reverse;
+  align-content: space-around;
+}
 
 /*6. exercice-flex-grow-1 */
 
